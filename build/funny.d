@@ -1,0 +1,1 @@
+funny.o: funny.s

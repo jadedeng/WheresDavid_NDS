@@ -1,0 +1,1 @@
+medieval.o: medieval.s

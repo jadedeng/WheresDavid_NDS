@@ -1,0 +1,11 @@
+#define SFX_APPLAUSE	0
+#define MOD_AURORA	0
+#define SFX_BOING	32
+#define MOD_INTRO	1
+#define MOD_ISLAND	2
+#define MOD_MEDIEVAL	3
+#define MOD_OCEAN	4
+#define MOD_SILLY	5
+#define MSL_NSONGS	6
+#define MSL_NSAMPS	180
+#define MSL_BANKSIZE	186

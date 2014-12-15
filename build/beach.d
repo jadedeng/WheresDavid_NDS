@@ -1,0 +1,1 @@
+beach.o: beach.s
